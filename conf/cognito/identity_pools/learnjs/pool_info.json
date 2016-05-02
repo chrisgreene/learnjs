@@ -1,5 +1,5 @@
 {
-    "IdentityPoolId": "us-east-1:713aa192-1acc-487f-837a-37d8b8d89026", 
+    "IdentityPoolId": "us-east-1:cc5acc10-9c9d-4bef-bc77-97aaf8b9d1d7", 
     "AllowUnauthenticatedIdentities": false, 
     "SupportedLoginProviders": {
         "accounts.google.com": "431080217712-d4kfooa6v6oj3ncumpndovi7kf4ikk7k.apps.googleusercontent.com"
